@@ -1,7 +1,11 @@
 codeunit 50002 TTTDBOLInstall
 {
+    // <TTT001>
+    //   Created.
+    // </TTT001>
+
+    Description = 'Object handles app install routines';
     Subtype = Install;
-    Description = 'This codeunit handles app install routines';
 
     trigger OnInstallAppPerDatabase();
     var

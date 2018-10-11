@@ -1,5 +1,11 @@
 codeunit 50000 TTTDBOLJobSubscriber
 {
+    // <TTT001>
+    //   Event subscriber for Time Sheet Line OnAfterValidate Job Task No.
+    // </TTT001>
+
+    Description = 'Object holds event subscribers to the Job module.';
+    Subtype = Normal;
     EventSubscriberInstance = StaticAutomatic;
 
     [EventSubscriber(ObjectType::Table, Database::"Time Sheet Line", 'OnAfterValidateEvent', 'Job Task No.', true, false)]
