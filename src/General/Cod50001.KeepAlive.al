@@ -1,4 +1,4 @@
-codeunit 50001 TTTDBOLKeepAlive
+codeunit 50001 "TTTDBOL KeepAlive"
 {
     // <TTT001>
     //   Add function FindFirstGLAcc.
@@ -16,6 +16,6 @@ codeunit 50001 TTTDBOLKeepAlive
     var
         locrecGLAccount: Record "G/L Account";
     begin
-        if locrecGLAccount.FindFirst then;
+        if locrecGLAccount.FindFirst() then;
     end;
 }

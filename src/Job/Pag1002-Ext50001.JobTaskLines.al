@@ -1,4 +1,4 @@
-pageextension 50001 "TTTDBOLJobTaskLines" extends "Job Task Lines"
+pageextension 50001 "TTTDBOL JobTaskLines" extends "Job Task Lines"
 {
     // <TTT001>
     //   Add new blocked field to subform.

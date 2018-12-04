@@ -1,4 +1,4 @@
-codeunit 50002 TTTDBOLInstall
+codeunit 50002 "TTTDBOL Install"
 {
     // <TTT001>
     //   Created.
@@ -13,7 +13,7 @@ codeunit 50002 TTTDBOLInstall
     begin
         NavApp.GetCurrentModuleInfo(myAppInfo); // Get info about the currently executing module
 
-        if myAppInfo.DataVersion = Version.Create(0, 0, 0, 0) then // A 'DataVersion' of 0.0.0.0 indicates a 'fresh/new' install
+        if myAppInfo.DataVersion() = Version.Create(0, 0, 0, 0) then // A 'DataVersion' of 0.0.0.0 indicates a 'fresh/new' install
             HandleFreshInstallDB()
         else
             HandleReinstallDB(); // If not a fresh install, then we are Re-installing the same version of the extension
@@ -25,7 +25,7 @@ codeunit 50002 TTTDBOLInstall
     begin
         NavApp.GetCurrentModuleInfo(myAppInfo); // Get info about the currently executing module
 
-        if myAppInfo.DataVersion = Version.Create(0, 0, 0, 0) then // A 'DataVersion' of 0.0.0.0 indicates a 'fresh/new' install
+        if myAppInfo.DataVersion() = Version.Create(0, 0, 0, 0) then // A 'DataVersion' of 0.0.0.0 indicates a 'fresh/new' install
             HandleFreshInstallComp()
         else
             HandleReinstallComp(); // If not a fresh install, then we are Re-installing the same version of the extension
@@ -60,7 +60,7 @@ codeunit 50002 TTTDBOLInstall
         // - Initial data setup for use
         locrecAllObj.SetRange("Object Type", locrecAllObj."Object Type"::Codeunit);
         locrecAllObj.SetRange("Object Name", 'TTTDBOLKeepAlive');
-        if not locrecAllObj.FindFirst then
+        if not locrecAllObj.FindFirst() then
             exit;
         if locrecJobQueueEntry.FindJobQueueEntry(locrecJobQueueEntry."Object Type to Run"::Codeunit, locrecAllObj."Object ID") then
             exit;
@@ -84,6 +84,6 @@ codeunit 50002 TTTDBOLInstall
         moduleinfoCurrent: ModuleInfo;
     begin
         NavApp.GetCurrentModuleInfo(moduleinfoCurrent);
-        exit(moduleinfoCurrent.Id);
+        exit(moduleinfoCurrent.Id());
     end;
 }

@@ -4,13 +4,16 @@
   "publisher": "Telos Team",
   "brief": "TTT DinBOLI Core",
   "description": "Core development objects for DinBOLI",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "privacyStatement": "http://telosteam.dk/privacy",
   "EULA": "http://telosteam.dk/eula",
   "help": "http://telosteam.dk/support",
   "url": "http://telosteam.dk",
   "logo": "./res/TT_Logo square.png",
   "capabilities": [],
+  "features": [
+    "TranslationFile"
+  ],
   "dependencies": [],
   "screenshots": [],
   "platform": "12.0.0.0", 
@@ -19,7 +22,7 @@
     "from": 50000,
     "to": 50099
   },
-  "runtime": "1.0",
-  "showMyCode": false,
+  "runtime": "2.0",
+  "showMyCode": true,
   "target": "Extension"
 }
