@@ -19,24 +19,26 @@ codeunit 50003 "TTTDBOL PurchSubscriber"
         end;
     end;
 
-    // [EventSubscriber(ObjectType::Page, Page::"Purchase Order Subform", 'OnNewRecordEvent', '', true, true)]
-    // local procedure PurchOrdSubformOnNewRecord(VAR Rec: Record "Purchase Line"; BelowxRec: Boolean; VAR xRec: Record "Purchase Line")
-    // begin
-    //     with rec do begin
-    //         if Type <> Type::" " then
-    //             if Type <> Type::Item then
-    //                 exit;
-    //         if "No." <> '' then
-    //             exit;
-    //         if Description <> '' then
-    //             exit;
-    //         if Quantity <> 0 then
-    //             exit;
-    //         if xRec."Document No." <> '' then
-    //             exit;
-    //         Validate(Type, Type::"G/L Account");
-    //     end;
-    // end;
+    [EventSubscriber(ObjectType::Page, Page::"Purchase Order Subform", 'OnNewRecordEvent', '', true, true)]
+    local procedure PurchOrdSubformOnNewRecord(VAR Rec: Record "Purchase Line"; BelowxRec: Boolean; VAR xRec: Record "Purchase Line")
+    begin
+        with rec do begin
+            if "Document No." = '' then
+                exit;
+            if Type <> Type::" " then
+                if Type <> Type::Item then
+                    exit;
+            if "No." <> '' then
+                exit;
+            if Description <> '' then
+                exit;
+            if Quantity <> 0 then
+                exit;
+            if xRec."Document No." <> '' then
+                exit;
+            Validate(Type, Type::"G/L Account");
+        end;
+    end;
 
 
     [EventSubscriber(ObjectType::Page, Page::"Purch. Invoice Subform", 'OnAfterValidateEvent', 'No.', true, true)]
@@ -49,24 +51,26 @@ codeunit 50003 "TTTDBOL PurchSubscriber"
         end;
     end;
 
-    // [EventSubscriber(ObjectType::Page, Page::"Purch. Invoice Subform", 'OnNewRecordEvent', '', true, true)]
-    // local procedure PurchInvSubformOnNewRecord(VAR Rec: Record "Purchase Line"; BelowxRec: Boolean; VAR xRec: Record "Purchase Line")
-    // begin
-    //     with rec do begin
-    //         if Type <> Type::" " then
-    //             if Type <> Type::Item then
-    //                 exit;
-    //         if "No." <> '' then
-    //             exit;
-    //         if Description <> '' then
-    //             exit;
-    //         if Quantity <> 0 then
-    //             exit;
-    //         if xRec."Document No." <> '' then
-    //             exit;
-    //         Validate(Type, Type::"G/L Account");
-    //     end;
-    // end;
+    [EventSubscriber(ObjectType::Page, Page::"Purch. Invoice Subform", 'OnNewRecordEvent', '', true, true)]
+    local procedure PurchInvSubformOnNewRecord(VAR Rec: Record "Purchase Line"; BelowxRec: Boolean; VAR xRec: Record "Purchase Line")
+    begin
+        with rec do begin
+            if "Document No." = '' then
+                exit;
+            if Type <> Type::" " then
+                if Type <> Type::Item then
+                    exit;
+            if "No." <> '' then
+                exit;
+            if Description <> '' then
+                exit;
+            if Quantity <> 0 then
+                exit;
+            if xRec."Document No." <> '' then
+                exit;
+            Validate(Type, Type::"G/L Account");
+        end;
+    end;
 
     [EventSubscriber(ObjectType::Page, Page::"Purch. Cr. Memo Subform", 'OnAfterValidateEvent', 'No.', true, true)]
     local procedure PurchCrMemoSubformOnAfterValidateNo(VAR Rec: Record "Purchase Line"; VAR xRec: Record "Purchase Line")
@@ -78,22 +82,24 @@ codeunit 50003 "TTTDBOL PurchSubscriber"
         end;
     end;
 
-    // [EventSubscriber(ObjectType::Page, Page::"Purch. Cr. Memo Subform", 'OnNewRecordEvent', '', true, true)]
-    // local procedure PurchCrMemoSubformOnNewRecord(VAR Rec: Record "Purchase Line"; BelowxRec: Boolean; VAR xRec: Record "Purchase Line")
-    // begin
-    //     with rec do begin
-    //         if Type <> Type::" " then
-    //             if Type <> Type::Item then
-    //                 exit;
-    //         if "No." <> '' then
-    //             exit;
-    //         if Description <> '' then
-    //             exit;
-    //         if Quantity <> 0 then
-    //             exit;
-    //         if xRec."Document No." <> '' then
-    //             exit;
-    //         Validate(Type, Type::"G/L Account");
-    //     end;
-    // end;
+    [EventSubscriber(ObjectType::Page, Page::"Purch. Cr. Memo Subform", 'OnNewRecordEvent', '', true, true)]
+    local procedure PurchCrMemoSubformOnNewRecord(VAR Rec: Record "Purchase Line"; BelowxRec: Boolean; VAR xRec: Record "Purchase Line")
+    begin
+        with rec do begin
+            if "Document No." = '' then
+                exit;
+            if Type <> Type::" " then
+                if Type <> Type::Item then
+                    exit;
+            if "No." <> '' then
+                exit;
+            if Description <> '' then
+                exit;
+            if Quantity <> 0 then
+                exit;
+            if xRec."Document No." <> '' then
+                exit;
+            Validate(Type, Type::"G/L Account");
+        end;
+    end;
 }

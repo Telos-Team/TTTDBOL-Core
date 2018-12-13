@@ -4,6 +4,19 @@
         {
             "type": "al",
             "request": "launch",
+            "name": "Dynamics NAV 130",
+            "server": "http://localhost",
+            "serverInstance": "dynamicsnav130",
+            "port": 13049,
+            "authentication": "Windows",
+            "startupObjectId": 9018,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "schemaUpdateMode": "Synchronize"
+        },
+        {
+            "type": "al",
+            "request": "launch",
             "name": "Microsoft cloud sandbox",
             "startupObjectId": 22,
             "startupObjectType": "Page",
