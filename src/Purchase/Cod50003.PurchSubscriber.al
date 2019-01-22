@@ -102,4 +102,12 @@ codeunit 50003 "TTTDBOL PurchSubscriber"
             Validate(Type, Type::"G/L Account");
         end;
     end;
+
+    [EventSubscriber(ObjectType::Table, Database::"Purchase Line", 'OnAfterValidateEvent', 'Job Task No.', true, true)]
+    local procedure PurchLinOnAfterValidateEventJobTaskNo(VAR Rec: Record "Purchase Line"; VAR xRec: Record "Purchase Line")
+    begin
+        with Rec do
+            if "Job Task No." <> '' then
+                Validate("Job Line Type", "Job line Type"::Budget);
+    end;
 }

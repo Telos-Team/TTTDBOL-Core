@@ -18,6 +18,7 @@
             "type": "al",
             "request": "launch",
             "name": "Microsoft cloud sandbox",
+            "tenant": "skovbynygaardnyt.onmicrosoft.com",
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": true
