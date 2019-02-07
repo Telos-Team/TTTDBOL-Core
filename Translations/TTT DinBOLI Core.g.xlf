@@ -8,6 +8,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2180806692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time.Sheet.Lin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time.Sheet.Lin.Arch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time.Sheet.Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time.Sheet.Details.Archive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 118837461 - Field 550501427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Spærret</source>
           <note from="Developer" annotates="general" priority="2"></note>
