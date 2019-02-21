@@ -10,89 +10,89 @@ page 50001 "TTTDBOL TimeSheetLin"
     {
         area(Content)
         {
-            repeater(Group)
+            repeater("TTTDBOL Group")
             {
-                field("TimeSheetNo"; "Time Sheet No.")
+                field("TTTDBOL TimeSheetNo"; "Time Sheet No.")
                 {
                     ApplicationArea = All;
                 }
-                field("LineNo"; "Line No.")
+                field("TTTDBOL LineNo"; "Line No.")
                 {
                     ApplicationArea = All;
                 }
-                field("TimeSheetStartingDate"; "Time Sheet Starting Date")
+                field("TTTDBOL TimeSheetStartingDate"; "Time Sheet Starting Date")
                 {
                     ApplicationArea = All;
                 }
-                field("Type"; "Type")
+                field("TTTDBOL Type"; "Type")
                 {
                     ApplicationArea = All;
                 }
-                field("JobNo"; "Job No.")
+                field("TTTDBOL JobNo"; "Job No.")
                 {
                     ApplicationArea = All;
                 }
-                field("JobTaskNo"; "Job Task No.")
+                field("TTTDBOL JobTaskNo"; "Job Task No.")
                 {
                     ApplicationArea = All;
                 }
-                field("CauseofAbsenceCode"; "Cause of Absence Code")
+                field("TTTDBOL CauseofAbsenceCode"; "Cause of Absence Code")
                 {
                     ApplicationArea = All;
                 }
-                field("Description"; "Description")
+                field("TTTDBOL Description"; "Description")
                 {
                     ApplicationArea = All;
                 }
-                field("WorkTypeCode"; "Work Type Code")
+                field("TTTDBOL WorkTypeCode"; "Work Type Code")
                 {
                     ApplicationArea = All;
                 }
-                field("ApproverID"; "Approver ID")
+                field("TTTDBOL ApproverID"; "Approver ID")
                 {
                     ApplicationArea = All;
                 }
-                field("ServiceOrderNo"; "Service Order No.")
+                field("TTTDBOL ServiceOrderNo"; "Service Order No.")
                 {
                     ApplicationArea = All;
                 }
-                field("ServiceOrderLineNo"; "Service Order Line No.")
+                field("TTTDBOL ServiceOrderLineNo"; "Service Order Line No.")
                 {
                     ApplicationArea = All;
                 }
-                field("TotalQuantity"; "Total Quantity")
+                field("TTTDBOL TotalQuantity"; "Total Quantity")
                 {
                     ApplicationArea = All;
                 }
-                field("Chargeable"; "Chargeable")
+                field("TTTDBOL Chargeable"; "Chargeable")
                 {
                     ApplicationArea = All;
                 }
-                field("AssemblyOrderNo"; "Assembly Order No.")
+                field("TTTDBOL AssemblyOrderNo"; "Assembly Order No.")
                 {
                     ApplicationArea = All;
                 }
-                field("AssemblyOrderLineNo"; "Assembly Order Line No.")
+                field("TTTDBOL AssemblyOrderLineNo"; "Assembly Order Line No.")
                 {
                     ApplicationArea = All;
                 }
-                field("Status"; "Status")
+                field("TTTDBOL Status"; "Status")
                 {
                     ApplicationArea = All;
                 }
-                field("ApprovedBy"; "Approved By")
+                field("TTTDBOL ApprovedBy"; "Approved By")
                 {
                     ApplicationArea = All;
                 }
-                field("ApprovalDate"; "Approval Date")
+                field("TTTDBOL ApprovalDate"; "Approval Date")
                 {
                     ApplicationArea = All;
                 }
-                field("Posted"; "Posted")
+                field("TTTDBOL Posted"; "Posted")
                 {
                     ApplicationArea = All;
                 }
-                field("Comment"; "Comment")
+                field("TTTDBOL Comment"; "Comment")
                 {
                     ApplicationArea = All;
                 }

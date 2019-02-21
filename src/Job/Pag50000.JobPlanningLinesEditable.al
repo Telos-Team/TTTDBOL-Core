@@ -11,57 +11,57 @@ page 50000 "TTTDBOL JobPlanLinesEditable"
     {
         area(Content)
         {
-            repeater(Group)
+            repeater("TTTDBOL Group")
             {
-                field(JobNo; "Job No.")
+                field("TTTDBOL JobNo"; "Job No.")
                 {
                     ApplicationArea = All;
                 }
-                field(JobTaskNo; "Job Task No.")
+                field("TTTDBOL JobTaskNo"; "Job Task No.")
                 {
                     ApplicationArea = All;
                 }
-                field(LineType; "Line Type")
+                field("TTTDBOL LineType"; "Line Type")
                 {
                     ApplicationArea = All;
                 }
-                field(PlanningDate; "Planning Date")
+                field("TTTDBOL PlanningDate"; "Planning Date")
                 {
                     ApplicationArea = All;
                 }
-                field(DocumentNo; "Document No.")
+                field("TTTDBOL DocumentNo"; "Document No.")
                 {
                     ApplicationArea = All;
                 }
-                field(Type; "Type")
+                field("TTTDBOL Type"; "Type")
                 {
                     ApplicationArea = All;
                 }
-                field(No; "No.")
+                field("TTTDBOL No"; "No.")
                 {
                     ApplicationArea = All;
                 }
-                field(Description; "Description")
+                field("TTTDBOL Description"; "Description")
                 {
                     ApplicationArea = All;
                 }
-                field(Quantity; Quantity)
+                field("TTTDBOL Quantity"; Quantity)
                 {
                     ApplicationArea = All;
                 }
-                field(QtyInvoiced; "Qty. Invoiced")
+                field("TTTDBOL QtyInvoiced"; "Qty. Invoiced")
                 {
                     ApplicationArea = All;
                 }
-                field(DirectUnitCost; "Direct Unit Cost (LCY)")
+                field("TTTDBOL DirectUnitCost"; "Direct Unit Cost (LCY)")
                 {
                     ApplicationArea = All;
                 }
-                field(TotalCost; "Total Cost")
+                field("TTTDBOL TotalCost"; "Total Cost")
                 {
                     ApplicationArea = All;
                 }
-                field(TotalPrice; "Total Price")
+                field("TTTDBOL TotalPrice"; "Total Price")
                 {
                     ApplicationArea = All;
                 }

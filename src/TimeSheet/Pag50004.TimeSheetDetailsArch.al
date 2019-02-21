@@ -10,77 +10,77 @@ page 50005 "TTTDBOL TimeSheetDetailsArch"
     {
         area(Content)
         {
-            repeater(Group)
+            repeater("TTTDBOL Group")
             {
-                field("TimeSheetNo"; "Time Sheet No.")
+                field("TTTDBOL TimeSheetNo"; "Time Sheet No.")
                 {
                     ApplicationArea = All;
                 }
-                field("TimeSheetLineNo"; "Time Sheet Line No.")
+                field("TTTDBOL TimeSheetLineNo"; "Time Sheet Line No.")
                 {
                     ApplicationArea = All;
                 }
-                field("Date"; "Date")
+                field("TTTDBOL Date"; "Date")
                 {
                     ApplicationArea = All;
                 }
-                field("Type"; "Type")
+                field("TTTDBOL Type"; "Type")
                 {
                     ApplicationArea = All;
                 }
-                field("ResourceNo"; "Resource No.")
+                field("TTTDBOL ResourceNo"; "Resource No.")
                 {
                     ApplicationArea = All;
                 }
-                field("JobNo"; "Job No.")
+                field("TTTDBOL JobNo"; "Job No.")
                 {
                     ApplicationArea = All;
                 }
-                field("JobTaskNo"; "Job Task No.")
+                field("TTTDBOL JobTaskNo"; "Job Task No.")
                 {
                     ApplicationArea = All;
                 }
-                field("CauseofAbsenceCode"; "Cause of Absence Code")
+                field("TTTDBOL CauseofAbsenceCode"; "Cause of Absence Code")
                 {
                     ApplicationArea = All;
                 }
-                field("ServiceOrderNo"; "Service Order No.")
+                field("TTTDBOL ServiceOrderNo"; "Service Order No.")
                 {
                     ApplicationArea = All;
                 }
-                field("ServiceOrderLineNo"; "Service Order Line No.")
+                field("TTTDBOL ServiceOrderLineNo"; "Service Order Line No.")
                 {
                     ApplicationArea = All;
                 }
-                field("Quantity"; "Quantity")
+                field("TTTDBOL Quantity"; "Quantity")
                 {
                     ApplicationArea = All;
                 }
-                field("PostedQuantity"; "Posted Quantity")
+                field("TTTDBOL PostedQuantity"; "Posted Quantity")
                 {
                     ApplicationArea = All;
                 }
-                field("AssemblyOrderNo"; "Assembly Order No.")
+                field("TTTDBOL AssemblyOrderNo"; "Assembly Order No.")
                 {
                     ApplicationArea = All;
                 }
-                field("AssemblyOrderLineNo"; "Assembly Order Line No.")
+                field("TTTDBOL AssemblyOrderLineNo"; "Assembly Order Line No.")
                 {
                     ApplicationArea = All;
                 }
-                field("Status"; "Status")
+                field("TTTDBOL Status"; "Status")
                 {
                     ApplicationArea = All;
                 }
-                field("Posted"; "Posted")
+                field("TTTDBOL Posted"; "Posted")
                 {
                     ApplicationArea = All;
                 }
-                field("DocumentNo"; "Document No.")
+                field("TTTDBOL DocumentNo"; "Document No.")
                 {
                     ApplicationArea = All;
                 }
-                field("PostingDate"; "Posting Date")
+                field("TTTDBOL PostingDate"; "Posting Date")
                 {
                     ApplicationArea = All;
                 }
