@@ -8,27 +8,482 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2180806692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Time.Sheet.Lin</source>
+        <trans-unit id="Page 1687558594 - Control 4076296705 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL JobNo - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1920679020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Time.Sheet.Lin.Arch</source>
+        <trans-unit id="Page 1687558594 - Control 2147332238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL JobTaskNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 1081858729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL LineType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 204460452 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL PlanningDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 4257874065 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL DocumentNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 2069097379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 631480260 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 216014841 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 3283811214 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 2169044324 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL QtyInvoiced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 684830339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL DirectUnitCost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 646908620 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL TotalCost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1687558594 - Control 2705657170 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL JobPlanLinesEditable - Control TTTDBOL TotalPrice - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3314279835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Time.Sheet.Details</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 2694419718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL TimeSheetNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 492927672 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL TimeSheetLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 1854015559 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 2069097379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 2293715558 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL ResourceNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 4076296705 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL JobNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 2147332238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL JobTaskNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 666573187 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL CauseofAbsenceCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 3589866125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL ServiceOrderNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 300420767 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL ServiceOrderLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 3283811214 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 3427475453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL PostedQuantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 3936189028 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL AssemblyOrderNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 1979283418 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL AssemblyOrderLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 3855409087 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3314279835 - Control 34315036 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetails - Control TTTDBOL Posted - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2971382243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Time.Sheet.Details.Archive</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 118837461 - Field 550501427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 2971382243 - Control 2694419718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL TimeSheetNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 492927672 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL TimeSheetLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 1854015559 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 2069097379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 2293715558 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL ResourceNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 4076296705 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL JobNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 2147332238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL JobTaskNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 666573187 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL CauseofAbsenceCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 3589866125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL ServiceOrderNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 300420767 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL ServiceOrderLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 3283811214 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 3427475453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL PostedQuantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 3936189028 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL AssemblyOrderNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 1979283418 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL AssemblyOrderLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 3855409087 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 34315036 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL Posted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 4257874065 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL DocumentNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2971382243 - Control 4208412279 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetDetailsArch - Control TTTDBOL PostingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time.Sheet.Lin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 2694419718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL TimeSheetNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 2663171194 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL LineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 2234728089 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL TimeSheetStartingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 2069097379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 4076296705 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL JobNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 2147332238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL JobTaskNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 666573187 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL CauseofAbsenceCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 216014841 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 1639885255 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL WorkTypeCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 2373696027 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL ApproverID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 3589866125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL ServiceOrderNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 300420767 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL ServiceOrderLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 1572536252 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL TotalQuantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 3017951339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL Chargeable - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 3936189028 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL AssemblyOrderNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 1979283418 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL AssemblyOrderLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 3855409087 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 1576459107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL ApprovedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 2763016622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL ApprovalDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 34315036 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL Posted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2180806692 - Control 2960038310 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLin - Control TTTDBOL Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time.Sheet.Lin.Arch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 2694419718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL TimeSheetNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 2663171194 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL LineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 2234728089 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL TimeSheetStartingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 2069097379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 4076296705 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL JobNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 2147332238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL JobTaskNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 666573187 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL CauseofAbsenceCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 216014841 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 1639885255 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL WorkTypeCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 2373696027 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL ApproverID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 3589866125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL ServiceOrderNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 300420767 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL ServiceOrderLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 1572536252 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL TotalQuantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 3017951339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL Chargeable - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 3936189028 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL AssemblyOrderNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 1979283418 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL AssemblyOrderLineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 3855409087 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 1576459107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL ApprovedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 2763016622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL ApprovalDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 34315036 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL Posted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1920679020 - Control 2960038310 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTDBOL TimeSheetLinArch - Control TTTDBOL Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1197306434 - Control 550501427 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3337981937">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTDBOL JobTaskLines - Control TTTDBOLBlocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2988834224 - Control 550501427 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2077750279">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTDBOL JobTaskLinesSubform - Control TTTDBOLBlocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 118837461 - Field 550501427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2014770230">
           <source>Spærret</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TTTDBOLJobTask - Field TTTDBOLBlocked - Property Caption</note>

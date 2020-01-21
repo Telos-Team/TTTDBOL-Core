@@ -1,3 +1,4 @@
 {
-    "mandatoryPrefix": "TTTDBOL"
+    "mandatoryPrefix": "TTTDBOL",
+    "supportedCountries": ["DK"]
 }
