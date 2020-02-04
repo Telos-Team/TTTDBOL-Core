@@ -483,6 +483,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTDBOL JobTaskLinesSubform - Control TTTDBOLBlocked - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2774417619 - Control 2999725877 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Use this field carefully!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTDBOL SalesInvoiceExt - Control TTTDBOL PostingNoSeries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2774417619 - Control 3570420372 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Use this field carefully!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTDBOL SalesInvoiceExt - Control TTTDBOL PostingNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2774417619 - Control 265163910 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Use this field carefully!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TTTDBOL SalesInvoiceExt - Control TTTDBOL LastPostingNo - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="TableExtension 118837461 - Field 550501427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2014770230">
           <source>Spærret</source>
           <note from="Developer" annotates="general" priority="2"></note>
